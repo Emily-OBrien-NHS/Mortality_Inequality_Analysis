@@ -1,1 +1,1 @@
-Sentiment analysis of PALS correspondance
+Inequality analysis of mortality
