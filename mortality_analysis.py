@@ -7,7 +7,7 @@ import itertools
 import seaborn as sns
 import os
 import matplotlib.pyplot as plt
-os.chdir('C:/Users/obriene/Projects/Mortality')
+os.chdir('C:/Users/obriene/Projects/Inequalities/Mortality')
 
 # =============================================================================
 #     #Read in and tidy data
